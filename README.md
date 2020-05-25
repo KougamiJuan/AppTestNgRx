@@ -1,4 +1,14 @@
-# ChatApp
+# Introduction
+
+This is an Angular project with NgRx to understand the REDUX pattern.
+It consists of a simple OAuth login. You need Firebase credentials, that's it!
+
+# Configuration
+
+ - Put your Firebase credentials in enviroment.ts file.
+ - Run `npm install`
+
+# AppTestNgRx
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.7.
 

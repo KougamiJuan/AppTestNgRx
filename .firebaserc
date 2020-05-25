@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "apptestngrx": {
+      "hosting": {
+        "AppTestNgRx": [
+          "apptestngrx"
+        ]
+      }
+    }
+  }
+}
